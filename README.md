@@ -1,84 +1,59 @@
-# EDUBBA
+# Hi, I'm Arya Panji 👋
 
-EDUBBA is a personal Computer Science learning platform designed to make studying programming more structured, interactive, and easier to revisit.
+I'm a Computer Science student at Cakrawala University with an interest in software development, product building, and learning how technology can solve real problems.
 
-The project started as a personal learning workspace and gradually evolved into a broader learning system with structured lessons, practice activities, progress tracking, and an AI learning companion called **Robin**.
+I enjoy building projects while learning the fundamentals behind them, especially in web development, programming, databases, and AI-assisted workflows.
 
-## Overview
+## 🚀 Currently
 
-EDUBBA combines course materials, guided practice, learning progress, and AI-assisted feedback in one platform.
+- Building **EDUBBA**, a personal Computer Science learning platform with structured lessons, practice, progress tracking, and an AI learning companion.
+- Improving my skills in **Python, Git/GitHub, and Supabase**.
+- Learning more about **Next.js, TypeScript, backend systems, and product development**.
+- Exploring how software can be designed with both functionality and user experience in mind.
 
-The main goal is to create a learning experience that is not only visually engaging, but also practical, easy to navigate, and useful for continuous study.
+## 🛠 Tech & Tools
 
-## Key Features
+**Comfortable with**
+- Python
+- Git & GitHub
+- Supabase
 
-- Structured Computer Science lessons
-- Programming Fundamentals learning path
-- Guided coding practice
-- Python sandbox
-- Logic & Computational Thinking activities
-- Learning progress tracking
-- Concept mastery system
-- Learning Log
-- Local user profiles
-- AI learning companion — **Robin**
-- Multiple visual themes
-- Dark and light mode
-- Responsive interface
-
-## Current Programming Fundamentals Content
-
-- Variables
-- Data Types
-- Operators
-- Conditionals
-- Loops
-- Functions
-
-## Tech Stack
-
+**Currently learning**
 - Next.js
 - TypeScript
-- Python
-- Supabase
-- OpenRouter
-- Git & GitHub
-- Vercel
+- Web Development
+- Backend Development
+- AI Integration
 
-## AI Integration
+## 📌 Featured Project
 
-Robin is EDUBBA's AI learning companion.
+### EDUBBA
+A personal learning platform built to make Computer Science learning more structured, interactive, and easier to revisit.
 
-It is used to provide contextual learning assistance, explain programming concepts, provide feedback, and support practice activities.
+Features include:
+- Structured programming lessons
+- Guided practice
+- Python sandbox
+- Learning progress
+- Learning Log
+- AI learning companion — Robin
+- Multi-theme interface
 
-The AI layer currently uses **OpenRouter** as its primary provider.
+🔗 [Live Demo](https://edubba-tawny.vercel.app/)
 
-## Project Status
+## 🎯 Interests
 
-EDUBBA is currently under active development.
+- Software Development
+- Product Development
+- Artificial Intelligence
+- UI/UX
+- Problem Solving
+- Learning Technologies
 
-The current focus is improving:
+## 📫 Connect with Me
 
-- User experience
-- Learning flow
-- User feedback
-- Progress persistence
-- Authentication
-- Multi-user learning experience
+Feel free to connect with me or check out my projects here on GitHub.
 
-The current deployed version is primarily intended as a project preview while authentication and production-level user persistence are still being developed.
+---
 
-## Live Demo
-
-[Visit EDUBBA](https://edubba-tawny.vercel.app/)
-
-## Motivation
-
-This project was created as part of my journey as a Computer Science student to better understand software development while building something I would personally use.
-
-Rather than focusing only on the final interface, EDUBBA is also an ongoing exercise in product design, user experience, backend architecture, database integration, and AI-assisted development.
-
-## Author
-
-**Arya Panji Vici Ayanda**  
-Computer Science Student — Cakrawala University
+> Learning by building, breaking, fixing, and improving.
