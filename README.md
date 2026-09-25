@@ -39,7 +39,7 @@ Features include:
 - AI learning companion — Robin
 - Multi-theme interface
 
-🔗 [Live Demo](https://edubba-tawny.vercel.app/)
+🔗 [Live Demo](https://edubba-sand.vercel.app/)
 
 ## 🎯 Interests
 
